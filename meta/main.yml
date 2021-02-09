@@ -1,0 +1,18 @@
+---
+dependencies: []
+
+galaxy_info:
+  role_name: podman
+  author: lmickh
+  description: "Installs and configures podman"
+  license: "license (BSD, MIT)"
+  min_ansible_version: 2.9
+  platforms:
+    - name: Amazon
+    - name: EL
+    - name: Fedora
+    - name: Ubuntu
+    - name: Debian
+  galaxy_tags:
+    - containers
+    - podman
